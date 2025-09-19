@@ -1,1 +1,0 @@
-<?php include('view/formulario.php'); ?>
